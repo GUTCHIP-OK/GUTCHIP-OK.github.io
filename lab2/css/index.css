@@ -1,0 +1,22 @@
+.header-index {text-align: center;
+	font-size: 24px
+}
+
+div{font-size: 120%;}
+
+a.color-1:link{color: aqua;
+}
+    a.color-1:visited{color: red;
+    }
+a.color-2:link{color:blue;
+}
+    a.color-2:visited{color: yellow;
+    }
+a.color-3:link{color: black;
+}
+    a.color-3:visited{color: magenta;
+    }
+a.color-4:link{color: orange;
+}
+    a.color-4:visited{color: aqua;
+    }

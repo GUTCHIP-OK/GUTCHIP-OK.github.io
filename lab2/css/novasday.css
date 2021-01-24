@@ -1,0 +1,17 @@
+sh1{text-align: center; font-size: 22px;}
+a{font-style: italic;}
+h2{text-align: center;}
+
+.backcolor{
+    background-color: gray;
+}
+
+.backcolor:nth-child(2n){
+    background-color: white;
+}
+.backcolor2{
+    background-color: white;
+}
+
+.kursor{cursor: pointer;}
+#fon{background-color: yellow;}

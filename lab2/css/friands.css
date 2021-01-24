@@ -1,0 +1,17 @@
+h1{text-align: center; font-size: 22px;}
+
+a{font-style: italic;}
+
+h2{text-align: center;}
+
+.ryadok{text-align: center;background-color: yellow; color: black; font-weight: 600;}
+
+.prizvuche{background-color: black; color: white}
+
+.name{background-color: black; color: white}
+
+.nomer{text-align: right;}
+
+th{border: black; border-width: 2px; border-style: solid; padding: 10px; text-align: center;}
+
+td{border: black; border-width: 2px; border-style: solid; padding: 3px; text-align: center;}
